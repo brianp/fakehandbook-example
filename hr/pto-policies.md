@@ -55,3 +55,15 @@ At vero eos et accusamus et iusto odio dignissimos ducimus:
 ## Jury Duty & Voting
 
 Nam libero tempore, cum soluta nobis est eligendi optio cumque. Full pay provided for civic duties. Take the time you need to vote.
+
+---
+
+<details>
+<summary>Edit History</summary>
+
+<!-- EDIT_HISTORY -->
+| Date | Editor |
+|------|--------|
+| 2026-01-18 | @brianp |
+
+</details>
